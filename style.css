@@ -646,6 +646,18 @@ body.alto-contraste .submit-button {
   letter-spacing: 1px;
 }
 
+
+body.alto-contraste .bi-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+   background: #ffff00;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+
 /* Classes para Fotossensibilidade */
 body.fotossensibilidade {
   filter: grayscale(100%);
